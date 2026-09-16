@@ -1,0 +1,9 @@
+UAS Pilot Logbook - PWA
+
+Archivos listos para publicar como aplicación web instalable.
+
+IMPORTANTE: para que Android muestre “Instalar aplicación”, la PWA debe abrirse desde HTTPS (por ejemplo Netlify). Abrir index.html directamente desde Archivos sirve para probar, pero no permite instalar el service worker/PWA.
+
+Publicación: sube todos los archivos de esta carpeta manteniendo sus nombres. Después abre la URL HTTPS en Chrome > menú ⋮ > Instalar aplicación / Añadir a pantalla de inicio.
+
+Los vuelos y CONOPS se guardan localmente en el navegador/dispositivo.
